@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=G4iken&fontAlign=50&fontAlignY=40&color=gradient&desc=IT%20Student%20%7C%20Aspiring%20Full-Stack%20Developer%20%7C%20IoT%20Developer&descAlign=50&descAlignY=60" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=G4iken&fontAlign=50&fontAlignY=40&color=gradient&desc=Engineering%20Student%20%7C%20Aspiring%20Full-Stack%20Developer%20%7C%20IoT%20Developer&descAlign=50&descAlignY=60" />
 
 # 👋 Hello, I'm Jeremy Elmo D. Ebardo
 
