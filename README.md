@@ -6,7 +6,7 @@
 
 ### 💻 Aspiring Full-Stack Developer | IoT & Embedded Systems Enthusiast | Cyber Security
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=BSIT+Student+from+the+Philippines;Laravel+%7C+Python+%7C+React+Developer;IoT+and+Automation+Enthusiast;Building+Smart+Systems+with+Raspberry+Pi;Future+Software+Engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=BSCpE+Student+from+the+Philippines;Cyber+Security%7C+Web+%7C+React+Developer;IoT+and+Automation+Enthusiast;Exploring+Machine+Learning;Future+Software+Engineer" alt="Typing SVG" />
 
 <p>
 <img src="https://komarev.com/ghpvc/?username=G4iken&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
