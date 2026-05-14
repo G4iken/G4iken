@@ -2,11 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=G4iken&fontAlign=50&fontAlignY=40&color=gradient&desc=Engineering%20Student%20%7C%20Aspiring%20Full-Stack%20Developer%20%7C%20IoT%20Developer&descAlign=50&descAlignY=60" />
 
-# 👋 Hello, I'm Jeremy Elmo D. Ebardo
+# Hi, I'm Jeremy Elmo D. Ebardo
 
-### 💻 Aspiring Full-Stack Developer | IoT & Embedded Systems Enthusiast | Cyber Security
+### Aspiring Full-Stack Developer | IoT & Embedded Systems Enthusiast | Cybersecurity Learner
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=BSCpE+Student+from+the+Philippines;Cyber+Security%7C+Web+%7C+React+Developer;IoT+and+Automation+Enthusiast;Exploring+Machine+Learning;Future+Software+Engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=BSCpE+Student+from+the+Philippines;Web+Development+%7C+React+%7C+Laravel;IoT+and+Automation+Enthusiast;Exploring+Cybersecurity+and+Machine+Learning;Future+Software+Engineer" alt="Typing SVG" />
 
 <p>
 <img src="https://komarev.com/ghpvc/?username=G4iken&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
@@ -18,59 +18,75 @@
 
 ---
 
-# 🚀 About Me
+## About Me
 
-🎓 BSCpE Student in Bulacan State University
-💡 Passionate about software engineering, web development, IoT, and automation
-🌐 Building modern websites and responsive user interfaces
-📚 Continuously learning Laravel, React, Python, AI technologies, and Machine Learning
-🎯 Seeking internship and real-world software development experience
-⚡ Motivated to create impactful and innovative tech solutions
+I am a **Computer Engineering student at Bulacan State University** with a strong interest in **software engineering, full-stack web development, IoT, embedded systems, automation, cybersecurity, and machine learning**.
 
----
+I enjoy building projects that combine software and hardware to solve real-world problems. My goal is to continuously improve as a developer, gain industry experience, and contribute to meaningful technology projects.
 
-# 💼 Featured Projects
-
-## 🚦 IoT-Based Raspberry Pi-Driven Traffic and Pedestrian Signal Control System
-
-### Smart Technology Approach to Smooth Traffic Movement in Meycauayan City
-
-* Built using Raspberry Pi, sensors, and smart traffic automation logic
-* Focused on improving traffic efficiency and pedestrian safety
-* Combines IoT technology with real-world transportation problems
+- Currently learning **Laravel, React, Python, cybersecurity fundamentals, AI, and machine learning**
+- Interested in **full-stack development, embedded systems, automation, and smart city solutions**
+- Building projects using **web technologies, Raspberry Pi, Arduino, and ESP32**
+- Seeking **internship opportunities, collaborations, and real-world development experience**
+- Passionate about creating useful, scalable, and innovative tech solutions
 
 ---
 
-## 🌐 Portfolio & Web Development Projects
+## What I’m Currently Working On
 
-* Responsive portfolio websites
-* Laravel-based web applications
-* Interactive frontend development using JavaScript
-* UI/UX design prototypes using Figma
-
----
-
-## 🤖 Arduino & ESP32 Automation Projects
-
-* Embedded systems development
-* Sensor integrations and automation
-* Hardware and software interaction projects
+- Improving my full-stack development skills with **Laravel, React, and JavaScript**
+- Building responsive and modern web interfaces
+- Exploring **IoT automation systems** using Raspberry Pi, Arduino, and ESP32
+- Learning more about **cybersecurity, AI, and machine learning**
+- Developing projects for my portfolio and future internship applications
 
 ---
 
-# 🛠️ Tech Stack
+## Featured Projects
+
+### IoT-Based Raspberry Pi-Driven Traffic and Pedestrian Signal Control System
+
+**Smart Technology Approach to Smooth Traffic Movement in Meycauayan City**
+
+- Developed using **Raspberry Pi, sensors, and traffic automation logic**
+- Designed to improve **traffic flow and pedestrian safety**
+- Applies IoT concepts to a real-world transportation problem
+- Focuses on smart city technology and automation
+
+---
+
+### Portfolio & Web Development Projects
+
+- Responsive portfolio websites
+- Laravel-based web applications
+- Interactive frontend projects using JavaScript
+- UI/UX design prototypes using Figma
+- Modern interfaces focused on usability and responsiveness
+
+---
+
+### Arduino & ESP32 Automation Projects
+
+- Embedded systems development
+- Sensor-based automation
+- Hardware and software integration
+- IoT prototypes for monitoring and control systems
+
+---
+
+## Tech Stack
 
 <div align="center">
 
-## 💻 Languages
+### Languages
 
 <img src="https://skillicons.dev/icons?i=python,php,js,html,css,c,cpp" />
 
-## 🌐 Web Development
+### Web Development
 
 <img src="https://skillicons.dev/icons?i=laravel,react,nodejs,vite,firebase" />
 
-## ⚙️ Tools & Platforms
+### Tools & Platforms
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,arduino,raspberrypi" />
 
@@ -78,7 +94,22 @@
 
 ---
 
-# 📊 GitHub Analytics
+## Skills & Interests
+
+- Full-Stack Web Development
+- Frontend UI Development
+- Backend Development
+- IoT and Embedded Systems
+- Automation Systems
+- Cybersecurity Fundamentals
+- Machine Learning Exploration
+- UI/UX Design
+- Problem Solving
+- Technical Documentation
+
+---
+
+## GitHub Analytics
 
 <div align="center">
 
@@ -92,7 +123,7 @@
 
 ---
 
-# 🏆 Achievements & Activity
+## Achievements & Activity
 
 <div align="center">
 
@@ -102,7 +133,7 @@
 
 ---
 
-# 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
@@ -112,18 +143,19 @@
 
 ---
 
-# 🎯 Career Goals
+## Career Goals
 
-✔️ Gain real-world software engineering experience
-✔️ Build scalable and impactful web applications
-✔️ Learn modern full-stack development technologies
-✔️ Improve UI/UX and frontend engineering skills
-✔️ Contribute to innovative tech projects and startups
-✔️ Exploring Ai and Machine learning
+- Gain real-world software engineering experience
+- Build scalable and impactful web applications
+- Improve full-stack development skills
+- Strengthen frontend, backend, and UI/UX abilities
+- Develop practical IoT and automation solutions
+- Learn more about cybersecurity, AI, and machine learning
+- Contribute to innovative tech projects, startups, and open-source work
 
 ---
 
-# 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -145,12 +177,8 @@
 
 <div align="center">
 
-## ✨ “Code. Learn. Build. Improve. Repeat.”
+## “Code. Learn. Build. Improve. Repeat.”
 
-### 🚀 Open for Internship Opportunities & Collaborative Projects
+### Open for Internship Opportunities, Collaborations, and Software Development Projects
 
 </div>
-
----
-
-```
